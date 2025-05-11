@@ -16,7 +16,7 @@ int main(){
 	bool l1=false,l2=false,l3=false;
 	
 	sf::RenderWindow window(sf::VideoMode(1067,600), "Chicken Invaders",sf::Style::Close | sf::Style::Titlebar);
-	window.setFramerateLimit(300);
+	window.setFramerateLimit(350);
 
 
 	sf::SoundBuffer mainThemeBuffer, gameOverBuffer, stageClearBuffer,BossThemeBuffer,level1ThemeBuffer,level2ThemeBuffer;
