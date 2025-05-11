@@ -66,7 +66,7 @@ It was developed as a semester project to demonstrate object-oriented programmin
 
 ## 🎥 Video Demo
 
-🎬 [Watch Gameplay Demo](![final copy (online-video-cutter com)](https://github.com/user-attachments/assets/6b43cd3b-0609-4d7c-8279-42b9cfc96f29)
+🎬 [Watch Gameplay Demo]![final copy (online-video-cutter com)](https://github.com/user-attachments/assets/6b43cd3b-0609-4d7c-8279-42b9cfc96f29)
 ---
 
 ## 👨‍💻 Team 
