@@ -38,22 +38,30 @@ It was developed as a semester project to demonstrate object-oriented programmin
 ---
 
 ## 📸 Screenshots  
-![Title Screen](https://github.com/user-attachments/assets/f3f0923d-8409-4b9b-b638-1da1f2170c8d)
 *Main Screen*
-![Level Select](https://github.com/user-attachments/assets/bb69659f-e0f6-4d55-8174-810626f72afb)
+![Title Screen](https://github.com/user-attachments/assets/f3f0923d-8409-4b9b-b638-1da1f2170c8d)
+
 *Level Select Screen*
-![Skin Select](https://github.com/user-attachments/assets/cac0dd09-6a59-4213-b52d-9ba540fbb013)
+![Level Select](https://github.com/user-attachments/assets/bb69659f-e0f6-4d55-8174-810626f72afb)
+
 *Skin Select Screen*
-![Level 1](https://github.com/user-attachments/assets/345186b7-7707-4392-bd82-4a1c304863c3)
+![Skin Select](https://github.com/user-attachments/assets/cac0dd09-6a59-4213-b52d-9ba540fbb013)
+
 *Level 1: Fighting red chickens*
-![Level 2](https://github.com/user-attachments/assets/d44c198f-8aa4-403e-b583-fa2075c6b791)
+![Level 1](https://github.com/user-attachments/assets/345186b7-7707-4392-bd82-4a1c304863c3)
+
 *Level 2: Fight with mini-boss*
-![Boss Fight](https://github.com/user-attachments/assets/0ea6c143-8b44-436e-996e-476c3f7c9e2d)
+![Level 2](https://github.com/user-attachments/assets/d44c198f-8aa4-403e-b583-fa2075c6b791)
+
 *Level 3: Fight with Main-boss*
-![Game Over](https://github.com/user-attachments/assets/490c8472-0161-45cd-a8b1-f6b0a8175641)
+![Boss Fight](https://github.com/user-attachments/assets/0ea6c143-8b44-436e-996e-476c3f7c9e2d)
+
 *Game over screen*
-![Stage Cleared](https://github.com/user-attachments/assets/1a8d0263-953b-46ff-a7d1-45a12d96d57e)
+![Game Over](https://github.com/user-attachments/assets/490c8472-0161-45cd-a8b1-f6b0a8175641)
+
 *Stage Cleared Screen*
+![Stage Cleared](https://github.com/user-attachments/assets/1a8d0263-953b-46ff-a7d1-45a12d96d57e)
+
 ---
 
 ## 🎥 Video Demo
