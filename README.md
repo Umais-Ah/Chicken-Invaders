@@ -79,6 +79,7 @@ Developed by students of FAST-NUCES:
 For queries or feedback, contact us at:  
 📧 umaisahmed180@email.com
 📧 khawajaalyanuddin99@gmail.com
+📧 abdullahshahzadnjr@gmail.com
 ---
 
 ## 📁 How to Run
